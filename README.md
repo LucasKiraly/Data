@@ -1,2 +1,2 @@
 # :cherries:Datasets
- This repository contains the data used in the projects and examples
+This repository contains datasets used in my projects, exercises and examples.

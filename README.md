@@ -1,4 +1,4 @@
 # :cherries:Datasets
 <!--ts-->
-  * [COVID-19](https://github.com/LucasKiraly/Datasets/tree/main/COVID-19)
+  * [Salary Data](https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression)
 <!--te-->
